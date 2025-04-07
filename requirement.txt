@@ -1,0 +1,11 @@
+flask==2.0.1
+flask-cors==3.0.10
+huggingface_hub==0.13.2
+transformers==4.28.1
+accelerate==0.18.0
+torch==2.0.0
+scipy==1.10.1
+matplotlib==3.7.1
+numpy==1.24.2
+pillow==9.5.0
+python-dotenv==1.0.0
